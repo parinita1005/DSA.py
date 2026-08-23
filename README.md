@@ -19,8 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/parinita1005/DSA.py/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parinita1005/DSA.py/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
