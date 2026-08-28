@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parinita1005/DSA.py/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parinita1005/DSA.py/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/parinita1005/DSA.py/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parinita1005/DSA.py/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
