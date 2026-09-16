@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/parinita1005/DSA.py/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parinita1005/DSA.py/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/parinita1005/DSA.py/tree/master/0115-distinct-subsequences) |
+| [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/parinita1005/DSA.py/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parinita1005/DSA.py/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parinita1005/DSA.py/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parinita1005/DSA.py/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
