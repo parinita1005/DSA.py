@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/parinita1005/DSA.py/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parinita1005/DSA.py/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parinita1005/DSA.py/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parinita1005/DSA.py/tree/master/0242-valid-anagram) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parinita1005/DSA.py/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parinita1005/DSA.py/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parinita1005/DSA.py/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parinita1005/DSA.py/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/parinita1005/DSA.py/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/parinita1005/DSA.py/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parinita1005/DSA.py/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parinita1005/DSA.py/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parinita1005/DSA.py/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
