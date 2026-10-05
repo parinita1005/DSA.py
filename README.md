@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parinita1005/DSA.py/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/parinita1005/DSA.py/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parinita1005/DSA.py/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/parinita1005/DSA.py/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parinita1005/DSA.py/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/parinita1005/DSA.py/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/parinita1005/DSA.py/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/parinita1005/DSA.py/tree/master/0940-distinct-subsequences-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parinita1005/DSA.py/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
