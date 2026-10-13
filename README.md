@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parinita1005/DSA.py/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parinita1005/DSA.py/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/parinita1005/DSA.py/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parinita1005/DSA.py/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parinita1005/DSA.py/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parinita1005/DSA.py/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parinita1005/DSA.py/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/parinita1005/DSA.py/tree/master/1872-stone-game-viii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/parinita1005/DSA.py/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parinita1005/DSA.py/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parinita1005/DSA.py/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parinita1005/DSA.py/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
