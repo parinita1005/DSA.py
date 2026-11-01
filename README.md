@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/parinita1005/DSA.py/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/parinita1005/DSA.py/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parinita1005/DSA.py/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/parinita1005/DSA.py/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/parinita1005/DSA.py/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/parinita1005/DSA.py/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/parinita1005/DSA.py/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parinita1005/DSA.py/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/parinita1005/DSA.py/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parinita1005/DSA.py/tree/master/1401-circle-and-rectangle-overlapping) |
