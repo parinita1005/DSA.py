@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parinita1005/DSA.py/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parinita1005/DSA.py/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/parinita1005/DSA.py/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parinita1005/DSA.py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/parinita1005/DSA.py/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parinita1005/DSA.py/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/parinita1005/DSA.py/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parinita1005/DSA.py/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/parinita1005/DSA.py/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/parinita1005/DSA.py/tree/master/0509-fibonacci-number) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parinita1005/DSA.py/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parinita1005/DSA.py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/parinita1005/DSA.py/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parinita1005/DSA.py/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
