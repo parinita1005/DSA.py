@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/parinita1005/DSA.py/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/parinita1005/DSA.py/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parinita1005/DSA.py/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parinita1005/DSA.py/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parinita1005/DSA.py/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parinita1005/DSA.py/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parinita1005/DSA.py/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parinita1005/DSA.py/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -260,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/parinita1005/DSA.py/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parinita1005/DSA.py/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parinita1005/DSA.py/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/parinita1005/DSA.py/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parinita1005/DSA.py/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parinita1005/DSA.py/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/parinita1005/DSA.py/tree/master/3665-twisted-mirror-path-count) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parinita1005/DSA.py/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parinita1005/DSA.py/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
