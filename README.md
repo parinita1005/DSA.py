@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parinita1005/DSA.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/parinita1005/DSA.py/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parinita1005/DSA.py/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/parinita1005/DSA.py/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parinita1005/DSA.py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parinita1005/DSA.py/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parinita1005/DSA.py/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/parinita1005/DSA.py/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parinita1005/DSA.py/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parinita1005/DSA.py/tree/master/0268-missing-number) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/parinita1005/DSA.py/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parinita1005/DSA.py/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
