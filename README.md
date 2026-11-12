@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parinita1005/DSA.py/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parinita1005/DSA.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/parinita1005/DSA.py/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/parinita1005/DSA.py/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parinita1005/DSA.py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/parinita1005/DSA.py/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parinita1005/DSA.py/tree/master/0215-kth-largest-element-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parinita1005/DSA.py/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/parinita1005/DSA.py/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/parinita1005/DSA.py/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/parinita1005/DSA.py/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parinita1005/DSA.py/tree/master/0242-valid-anagram) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/parinita1005/DSA.py/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/parinita1005/DSA.py/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/parinita1005/DSA.py/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/parinita1005/DSA.py/tree/master/1267-count-servers-that-communicate) |
